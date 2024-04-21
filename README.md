@@ -32,10 +32,10 @@ The target variable is the energy efficiency rating, which is typically measured
 ## Usage
 ## To run the project and train the predictive model:
 
-Clone this repository to your local machine.
-Install the necessary dependencies listed in the requirements.txt file.
-Run the Python script containing the code for data preprocessing, model training, and evaluation.
-Explore the trained model's performance and make predictions on new data.
+* Clone this repository to your local machine.
+* Install the necessary dependencies listed in the requirements.txt file.
+* Run the Python script containing the code for data preprocessing, model training, and evaluation.
+* Explore the trained model's performance and make predictions on new data.
 
 ## Contributors
 Utkarsh Singh - Project Lead
